@@ -1,0 +1,8 @@
+1. Using your selected pre-trained model, simply evaluate it on the test split of galaxyzoo dataset. (We recommend using the ResNet-50 model from microsoft/resnet-50 · Hugging Face)
+2. Now, simply finetune the pre-trained model on the train split of galaxyzoo dataset and evaluate it on its test split.
+3. Finally, finetune the model using LoRA and evaluate it on the test split.
+
+Refer to the resources:
+https://medium.com/@sandha.iitr/fine-tuning-deep-learning-models-with-low-rank-adaptation-lora-using-google-colab-dac1b4516f71
+https://www.youtube.com/watch?v=eC6Hd1hFvos&t=1320s
+https://www.youtube.com/watch?v=GSt00_-0ncQ
