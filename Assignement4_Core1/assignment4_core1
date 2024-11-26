@@ -1,0 +1,6 @@
+1) Find a suitable pretrained model, which is feasible to run on your system for the task of image detection and how and what you will use to work with
+the said model, (tools/frameworks and such, we recommend using HuggingFace for this purpose). 
+2) Find the suitable finetuning method that you feel will be the best for the given dataset, (which you will get an understanding of by reading papers/blogs on fine-tuning).
+We encourage you to read more and find various techniques and see if it will work for this case (Don't worry about implementation right now).
+Dataset: https://data.galaxyzoo.org/#section-21
+3) Optional: Look for other methods that could be better than finetuning, such as ensemble methods. This will help enhance the quality of your output and learning.
